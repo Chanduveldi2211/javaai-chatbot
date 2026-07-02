@@ -52,7 +52,7 @@
 >      
 >       - ```bash
 >         # Clone the repository
->         git clone https://github.com/Chanduveldi2211/javaai-chatbot.git
+>         git clone https://github.com/Pcveldi22/javaai-chatbot.git
 >         cd javaai-chatbot
 >
 >         # Set your OpenAI API key
@@ -132,4 +132,4 @@
 >
 > ---
 >
-> <p align="center">Made with ❤️ by <a href="https://github.com/Chanduveldi2211">Veldi Purna Chandu</a>a></p>p>
+> <p align="center">Made with ❤️ by <a href="https://github.com/Pcveldi22">Pc Veldi</a>a></p>p>
